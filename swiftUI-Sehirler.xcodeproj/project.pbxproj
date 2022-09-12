@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		418D490828CDFC0B00EE5286 /* swiftUI_SehirlerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418D490728CDFC0B00EE5286 /* swiftUI_SehirlerApp.swift */; };
-		418D490A28CDFC0B00EE5286 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418D490928CDFC0B00EE5286 /* ContentView.swift */; };
+		418D490A28CDFC0B00EE5286 /* ListeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418D490928CDFC0B00EE5286 /* ListeView.swift */; };
 		418D490C28CDFC0D00EE5286 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 418D490B28CDFC0D00EE5286 /* Assets.xcassets */; };
 		418D490F28CDFC0D00EE5286 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 418D490E28CDFC0D00EE5286 /* Preview Assets.xcassets */; };
 		418D491628CDFE2F00EE5286 /* Sehirler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418D491528CDFE2F00EE5286 /* Sehirler.swift */; };
@@ -20,7 +20,7 @@
 /* Begin PBXFileReference section */
 		418D490428CDFC0B00EE5286 /* swiftUI-Sehirler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftUI-Sehirler.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		418D490728CDFC0B00EE5286 /* swiftUI_SehirlerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUI_SehirlerApp.swift; sourceTree = "<group>"; };
-		418D490928CDFC0B00EE5286 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		418D490928CDFC0B00EE5286 /* ListeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeView.swift; sourceTree = "<group>"; };
 		418D490B28CDFC0D00EE5286 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		418D490E28CDFC0D00EE5286 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		418D491528CDFE2F00EE5286 /* Sehirler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sehirler.swift; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				418D490728CDFC0B00EE5286 /* swiftUI_SehirlerApp.swift */,
-				418D490928CDFC0B00EE5286 /* ContentView.swift */,
+				418D490928CDFC0B00EE5286 /* ListeView.swift */,
 				418D491528CDFE2F00EE5286 /* Sehirler.swift */,
 				418D491728CF111600EE5286 /* MapView.swift */,
 				418D491928CF1C7300EE5286 /* DetayView.swift */,
@@ -151,7 +151,7 @@
 			files = (
 				418D491C28CF1F4600EE5286 /* OzelGorselView.swift in Sources */,
 				418D491A28CF1C7300EE5286 /* DetayView.swift in Sources */,
-				418D490A28CDFC0B00EE5286 /* ContentView.swift in Sources */,
+				418D490A28CDFC0B00EE5286 /* ListeView.swift in Sources */,
 				418D491828CF111600EE5286 /* MapView.swift in Sources */,
 				418D491628CDFE2F00EE5286 /* Sehirler.swift in Sources */,
 				418D490828CDFC0B00EE5286 /* swiftUI_SehirlerApp.swift in Sources */,
