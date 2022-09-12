@@ -11,7 +11,11 @@ struct ListeView: View {
     var body: some View {
         NavigationView{
             List(sehirlerDizisi){
-                Sehirler in NavigationLink(destination: DetayView(secilenSehir: Sehirler), label: {Text(Sehirler.isim)})
+                Sehirler in NavigationLink(destination: DetayView(secilenSehir: Sehirler), label: {
+                    ListeRowView(sehirler: Sehirler)
+                    
+                })
+                
             }.navigationTitle("Şehirler")
         }
     }

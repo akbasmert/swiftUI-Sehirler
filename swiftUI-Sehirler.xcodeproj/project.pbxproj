@@ -15,6 +15,7 @@
 		418D491828CF111600EE5286 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418D491728CF111600EE5286 /* MapView.swift */; };
 		418D491A28CF1C7300EE5286 /* DetayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418D491928CF1C7300EE5286 /* DetayView.swift */; };
 		418D491C28CF1F4600EE5286 /* OzelGorselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418D491B28CF1F4600EE5286 /* OzelGorselView.swift */; };
+		418D491E28CF402800EE5286 /* ListeRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418D491D28CF402800EE5286 /* ListeRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		418D491728CF111600EE5286 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		418D491928CF1C7300EE5286 /* DetayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetayView.swift; sourceTree = "<group>"; };
 		418D491B28CF1F4600EE5286 /* OzelGorselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OzelGorselView.swift; sourceTree = "<group>"; };
+		418D491D28CF402800EE5286 /* ListeRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,8 +66,9 @@
 				418D491528CDFE2F00EE5286 /* Sehirler.swift */,
 				418D491728CF111600EE5286 /* MapView.swift */,
 				418D491928CF1C7300EE5286 /* DetayView.swift */,
-				418D490B28CDFC0D00EE5286 /* Assets.xcassets */,
+				418D491D28CF402800EE5286 /* ListeRowView.swift */,
 				418D491B28CF1F4600EE5286 /* OzelGorselView.swift */,
+				418D490B28CDFC0D00EE5286 /* Assets.xcassets */,
 				418D490D28CDFC0D00EE5286 /* Preview Content */,
 			);
 			path = "swiftUI-Sehirler";
@@ -152,6 +155,7 @@
 				418D491C28CF1F4600EE5286 /* OzelGorselView.swift in Sources */,
 				418D491A28CF1C7300EE5286 /* DetayView.swift in Sources */,
 				418D490A28CDFC0B00EE5286 /* ListeView.swift in Sources */,
+				418D491E28CF402800EE5286 /* ListeRowView.swift in Sources */,
 				418D491828CF111600EE5286 /* MapView.swift in Sources */,
 				418D491628CDFE2F00EE5286 /* Sehirler.swift in Sources */,
 				418D490828CDFC0B00EE5286 /* swiftUI_SehirlerApp.swift in Sources */,
