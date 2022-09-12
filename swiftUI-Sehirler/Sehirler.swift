@@ -27,5 +27,14 @@ struct Koordinat {
     var longitude : Double // boylam
 }
 
-let ankara = Sehirler(isim: "Ankara", gorselIsmi: "ankara", ulke: "Türkiye", bolge: "İçanadoly", koordinat: Koordinat(latitude: 20.0, longitude: 20.0))
+let ankara = Sehirler(isim: "Ankara", gorselIsmi: "ankara", ulke: "Türkiye", bolge: "İçanadoly", koordinat: Koordinat(latitude: 39.57 , longitude: 32.53))
+let adana = Sehirler(isim: "Adana", gorselIsmi: "adana", ulke: "Türkiye", bolge: "İçanadolu", koordinat: Koordinat(latitude: 35.38, longitude: 34.36))
+let istanbul = Sehirler(isim: "İstanbul", gorselIsmi: "istanbul", ulke: "Türkiye", bolge: "Marmara", koordinat: Koordinat(latitude:  41.0122,longitude: 28.976))
+let izmir = Sehirler(isim: "İzmir", gorselIsmi: "izmir", ulke: "Türkiye", bolge: "Ege", koordinat: Koordinat(latitude: 38.26, longitude: 27.09))
+let ordu = Sehirler(isim: "Ordu", gorselIsmi: "ordu", ulke: "Türkiye", bolge: "Karadeniz", koordinat: Koordinat(latitude: 40.9862, longitude: 37.8797 ))
+let yalova = Sehirler(isim: "Yalova", gorselIsmi: "yalova", ulke: "Türkiye", bolge: "Marmara", koordinat: Koordinat(latitude: 40.6549, longitude: 29.2842))
+let sehirlerDizisi = [ankara,adana,istanbul,izmir,ordu,yalova]
+
+
+
 
